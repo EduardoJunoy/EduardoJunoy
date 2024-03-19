@@ -25,8 +25,4 @@
 ![Docker](https://img.shields.io/badge/Docker-a?style=for-the-badge&logo=docker&color=grey)
 ![Git](https://img.shields.io/badge/Git-a?style=for-the-badge&logo=git&color=grey)
 
-<a> 
-    <a href="https://github.com/EduardoJunoy"><img alt="Estadísticas" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=EduardoJunot&show_icons=true&include_all_commits=true&theme=calm&card_width=300" height="180px"/></a>
-    <a href="https://github.com/EduardoJunoy"><img alt="Lenguages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy&langs_count=8&layout=compact&theme=calm&card_width=300" height="180px"/></a>
-    <br/>
-</a>
+[![Estadísticas de GitHub:](https://github-readme-stats.vercel.app/api?username=EduardoJunoy)](https://github.com/EduardoJunoy/github-readme-stats)
