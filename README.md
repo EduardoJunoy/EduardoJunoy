@@ -1,7 +1,5 @@
 ### Hola, soy Eduardo 👋
 
-![](https://github.com/EduardoJunoy/EduardoJunoy/blob/main/me.png)
-
 - 🌱 Actualmente estudio Ingeniería Informática
 - 📊 Apasionado de las gráficas y el análisis de datos
 - 👯 Me gusta trabajar en equipo
