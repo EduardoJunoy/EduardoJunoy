@@ -26,5 +26,5 @@
 ![Docker](https://img.shields.io/badge/Docker-a?style=for-the-badge&logo=docker&color=grey)
 ![Git](https://img.shields.io/badge/Git-a?style=for-the-badge&logo=git&color=grey)
 
-[![Estadísticas de GitHub:](https://github-readme-stats.vercel.app/api?username=EduardoJunoy&theme=dark&show_icons=true&height_180)](https://github.com/EduardoJunoy/github-readme-stats)
-[![Lenguajes más usados:](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy&theme=dark&show_icons=true&height_180)](https://github.com/EduardoJunoy/github-readme-stats)
+[![Estadísticas de GitHub:](https://github-readme-stats.vercel.app/api?username=EduardoJunoy&theme=vue_dark&show_icons=true&height_180)](https://github.com/EduardoJunoy/github-readme-stats)
+[![Lenguajes más usados:](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy&theme=vue_dark&show_icons=true&height_180)](https://github.com/EduardoJunoy/github-readme-stats)
