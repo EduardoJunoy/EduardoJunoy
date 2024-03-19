@@ -1,5 +1,7 @@
 ### Hola, soy Eduardo 👋
 
+![](https://github.com/EduardoJunoy/EduardoJunoy/blob/main/me.png)
+
 - 🌱 Actualmente estudio Ingeniería Informática
 - 📊 Apasionado de las gráficas y el análisis de datos
 - 👯 Me gusta trabajar en equipo
@@ -7,8 +9,6 @@
 - ⚡ Soy monitor scout, por lo que estoy acostumbrado a lidiar con problemas y solucionarlos colectivamente
 - 📚 Interesado en el Software Libre
 - 📫 Contacta conmigo a través del correo 
-
-![](https://github.com/EduardoJunoy/EduardoJunoy/blob/main/me.png)
 
 ![Static Badge](https://img.shields.io/badge/Deutsch-red?label=B2)
 ![Static Badge](https://img.shields.io/badge/English-lightblue?label=B2)
