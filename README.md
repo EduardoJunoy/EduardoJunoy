@@ -10,4 +10,5 @@
 
 ![Static Badge](https://img.shields.io/badge/Deutsch-red?label=B2)
 ![Static Badge](https://img.shields.io/badge/English-darkblue?label=B2)
-![Static Badge](https://img.shields.io/badge/English-darkblue?label=B2)
+![Static Badge](https://img.shields.io/badge/Italiano-darkgreen?label=B1)
+
