@@ -3,7 +3,8 @@
 - 🌱 Actualmente estudio Ingeniería Informática
 - 👯 Me gusta trabajar en equipo
 - ⚡ Soy monitor scout, por lo que estoy acostumbrado a lidiar con problemas y solucionarlos colectivamente
-- 📫 Contacta conmigo a través del correo
+- 📚 Interesado en el Software Libre
+- 📫 Contacta conmigo a través del correo 
 
 ![Static Badge](https://img.shields.io/badge/Deutsch-red?label=B2)
 ![Static Badge](https://img.shields.io/badge/English-darkblue?label=B2)
@@ -26,3 +27,4 @@
 ![Git](https://img.shields.io/badge/Git-a?style=for-the-badge&logo=git&color=grey)
 
 [![Estadísticas de GitHub:](https://github-readme-stats.vercel.app/api?username=EduardoJunoy)](https://github.com/EduardoJunoy/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
