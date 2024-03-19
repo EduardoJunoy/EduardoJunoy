@@ -9,7 +9,7 @@
 - 📫 Contacta conmigo a través del correo 
 
 ![Static Badge](https://img.shields.io/badge/Deutsch-red?label=B2)
-![Static Badge](https://img.shields.io/badge/English-darkblue?label=B2)
+![Static Badge](https://img.shields.io/badge/English-lightblue?label=B2)
 ![Static Badge](https://img.shields.io/badge/Italiano-darkgreen?label=B1)
 
 ![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
