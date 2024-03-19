@@ -8,7 +8,7 @@
 - 📚 Interesado en el Software Libre
 - 📫 Contacta conmigo a través del correo 
 
-https://raw.githubusercontent.com/EduardoJunoy/EduardoJunoy/me.png
+https://raw.githubusercontent.com/EduardoJunoy/EduardoJunoy/blob/main/me.png
 
 ![Static Badge](https://img.shields.io/badge/Deutsch-red?label=B2)
 ![Static Badge](https://img.shields.io/badge/English-lightblue?label=B2)
