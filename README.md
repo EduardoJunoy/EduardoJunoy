@@ -27,4 +27,4 @@
 ![Git](https://img.shields.io/badge/Git-a?style=for-the-badge&logo=git&color=grey)
 
 [![Estadísticas de GitHub:](https://github-readme-stats.vercel.app/api?username=EduardoJunoy)](https://github.com/EduardoJunoy/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Lenguajes más usados:](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy)](https://github.com/EduardoJunoy/github-readme-stats)
