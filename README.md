@@ -6,7 +6,9 @@
 - 🎨 Conocimientos avanzados en edición de imagen
 - ⚡ Soy monitor scout, por lo que estoy acostumbrado a lidiar con problemas y solucionarlos colectivamente
 - 📚 Interesado en el Software Libre
-- 📫 Contacta conmigo a través del correo 
+- 📫 Contacta conmigo a través del corre
+
+![Banner](https://github.com/EduardoJunoy/EduardoJunoy/banner.png)
 
 ![Static Badge](https://img.shields.io/badge/Deutsch-red?label=B2)
 ![Static Badge](https://img.shields.io/badge/English-lightblue?label=B2)
