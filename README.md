@@ -8,7 +8,7 @@
 - 📚 Interesado en el Software Libre
 - 📫 Contacta conmigo a través del corre
 
-![Banner](https://github.com/EduardoJunoy/EduardoJunoy/banner.png](https://github.com/EduardoJunoy/EduardoJunoy/blob/main/banner.png)
+![Banner](https://github.com/EduardoJunoy/EduardoJunoy/blob/main/banner.png)
 
 ![Static Badge](https://img.shields.io/badge/Deutsch-red?label=B2)
 ![Static Badge](https://img.shields.io/badge/English-lightblue?label=B2)
