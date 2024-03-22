@@ -14,7 +14,8 @@
   <img src="https://img.shields.io/badge/Italiano-lightgreen?label=B1" alt="Static Badge" />
   <br>
   <img src="https://github.com/EduardoJunoy/EduardoJunoy/blob/main/banner.png" alt="Banner" height="220"/>
-</p>
+
+ <br>
 
 ![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
 ![Java](https://img.shields.io/badge/Java-a?style=for-the-badge&logo=java&logoColor=grey&color=grey)
@@ -33,8 +34,8 @@
 ![Git](https://img.shields.io/badge/Git-a?style=for-the-badge&logo=git&color=grey)
 ![VHDL](https://img.shields.io/badge/VHDL-a?style=for-the-badge&logo=vhdl&color=grey)
 
-
-<p align="center">
+ <br>
+ 
   <a href="https://github.com/EduardoJunoy/github-readme-stats">
     <img src="https://github-readme-stats.vercel.app/api?username=EduardoJunoy&theme=nord&show_icons=true&locale=es&hide=contribs,prs,issues&count_private=true" alt="Estadísticas de GitHub" height="150"/>
   </a>
