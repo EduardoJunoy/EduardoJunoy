@@ -12,6 +12,7 @@
   <img src="https://img.shields.io/badge/Deutsch-red?label=B2" alt="Static Badge" />
   <img src="https://img.shields.io/badge/English-lightblue?label=B2" alt="Static Badge" />
   <img src="https://img.shields.io/badge/Italiano-lightgreen?label=B1" alt="Static Badge" />
+  <br>
   <img src="https://github.com/EduardoJunoy/EduardoJunoy/blob/main/banner.png" alt="Banner" height="220"/>
 </p>
 
