@@ -34,9 +34,9 @@
 
 <p align="center">
   <a href="https://github.com/EduardoJunoy/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=EduardoJunoy&theme=nord&show_icons=true&locale=es&hide=contribs,prs,issues&count_private=true" alt="Estadísticas de GitHub" height="204"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=EduardoJunoy&theme=nord&show_icons=true&locale=es&hide=contribs,prs,issues&count_private=true" alt="Estadísticas de GitHub" height="150"/>
   </a>
   <a href="https://github.com/EduardoJunoy/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy&theme=vue_dark&show_icons=true&locale=es&hide=jupyter%20notebook&layout=compact" alt="Lenguajes más usados" height="204"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy&theme=vue_dark&show_icons=true&locale=es&hide=jupyter%20notebook&layout=compact" alt="Lenguajes más usados" height="150"/>
   </a>
 </p>
