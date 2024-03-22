@@ -12,7 +12,9 @@
 ![Static Badge](https://img.shields.io/badge/English-lightblue?label=B2)
 ![Static Badge](https://img.shields.io/badge/Italiano-lightgreen?label=B1)
 
-![Banner](https://github.com/EduardoJunoy/EduardoJunoy/blob/main/banner.png)
+<p align="center">
+  <img src="https://github.com/EduardoJunoy/EduardoJunoy/blob/main/banner.png" alt="Banner" height="250"/>
+</p>
 
 ![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
 ![Java](https://img.shields.io/badge/Java-a?style=for-the-badge&logo=java&logoColor=grey&color=grey)
