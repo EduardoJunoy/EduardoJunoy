@@ -32,4 +32,4 @@
 ![VHDL](https://img.shields.io/badge/VHDL-a?style=for-the-badge&logo=vhdl&color=grey)
 
 ![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EduardoJunoy&theme=nord&show_icons=true&locale=es&hide=contribs,prs,issues&count_private=true)
-![Lenguajes más usados:](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy&theme=vue_dark&show_icons=true&locale=es&hide=jupyter%20notebook)
+![Lenguajes más usados:](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy&theme=vue_dark&show_icons=true&locale=es&hide=jupyter%20notebook&layout=compact)
