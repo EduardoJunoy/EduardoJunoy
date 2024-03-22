@@ -31,6 +31,7 @@
 ![Git](https://img.shields.io/badge/Git-a?style=for-the-badge&logo=git&color=grey)
 ![VHDL](https://img.shields.io/badge/VHDL-a?style=for-the-badge&logo=vhdl&color=grey)
 
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=EduardoJunoy&theme=nord&show_icons=true&locale=es&hide=contribs,prs,issues&count_private=true)
 
 [![Estadísticas de GitHub:](https://github-readme-stats.vercel.app/api?username=EduardoJunoy&theme=nord&show_icons=true&locale=es&hide=contribs&hide=prs,issues,contribs&count_private=true)](https://github.com/EduardoJunoy/github-readme-stats)
 [![Lenguajes más usados:](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy&theme=vue_dark&show_icons=true&locale=es&hide=jupyter%20notebook)](https://github.com/EduardoJunoy/github-readme-stats)
