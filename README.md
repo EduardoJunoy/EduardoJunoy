@@ -34,4 +34,4 @@
 
 [![Estadísticas de GitHub:](https://github-readme-stats.vercel.app/api?username=EduardoJunoy&theme=vue-dark&show_icons=true&locale=es&hide=contribs&hide=prs,issues,contribs&count_private=true)](https://github.com/EduardoJunoy/github-readme-stats)
 [![Lenguajes más usados:](https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy&theme=vue_dark&show_icons=true&locale=es&hide=jupyter%20notebook)](https://github.com/EduardoJunoy/github-readme-stats)
-[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=ffflabs)](https://github.com/anuraghazra/github-readme-stats)
+[![Harlok's WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=EduardoJunoy)](https://github.com/anuraghazra/github-readme-stats)
