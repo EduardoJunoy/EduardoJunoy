@@ -16,9 +16,6 @@
   <img src="https://github.com/EduardoJunoy/EduardoJunoy/blob/main/banner.png" alt="Banner" height="220"/>
   <br>
 
-  <img src="https://img.shields.io/badge/Deutsch-red?label=B2" alt="Static Badge" />
-  <img src="https://img.shields.io/badge/English-lightblue?label=B2" alt="Static Badge" />
-  <img src="https://img.shields.io/badge/Italiano-lightgreen?label=B1" alt="Static Badge" />
   <img src="https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey" alt="C" />
   <img src="https://img.shields.io/badge/Java-a?style=for-the-badge&logo=java&logoColor=grey&color=grey" alt="Java" />
   <img src="https://img.shields.io/badge/Python-a?style=for-the-badge&logo=python&color=grey" alt="Python" />
