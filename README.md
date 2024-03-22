@@ -13,7 +13,7 @@
 ![Static Badge](https://img.shields.io/badge/Italiano-lightgreen?label=B1)
 
 <p align="center">
-  <img src="https://github.com/EduardoJunoy/EduardoJunoy/blob/main/banner.png" alt="Banner" height="250"/>
+  <img src="https://github.com/EduardoJunoy/EduardoJunoy/blob/main/banner.png" alt="Banner" height="220"/>
 </p>
 
 ![C](https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey)
