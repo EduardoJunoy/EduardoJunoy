@@ -23,24 +23,9 @@
   <img src="https://img.shields.io/badge/HTML-a?style=for-the-badge&logo=html5&color=grey" alt="HTML" />
   <img src="https://img.shields.io/badge/CSS-a?style=for-the-badge&logo=css3&color=grey" alt="CSS" />
   <img src="https://img.shields.io/badge/Django-a?style=for-the-badge&logo=django&color=grey" alt="Django" />
-  <img src="https://img.shields.io/badge/Node.js-a?style=for-the-badge&logo=node.js&color=grey" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Vue.js-a?style=for-the-badge&logo=vue.js&color=grey" alt="Vue.js" />
   <img src="https://img.shields.io/badge/PostgreSQL-a?style=for-the-badge&logo=postgresql&color=grey" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MongoDB-a?style=for-the-badge&logo=mongodb&color=grey" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Neo4j-a?style=for-the-badge&logo=neo4j&color=grey" alt="Neo4j" />
-  <img src="https://img.shields.io/badge/DynamoDB-a?style=for-the-badge&logo=amazon-dynamodb&color=grey" alt="DynamoDB" />
-  <img src="https://img.shields.io/badge/Docker-a?style=for-the-badge&logo=docker&color=grey" alt="Docker" />
   <img src="https://img.shields.io/badge/Git-a?style=for-the-badge&logo=git&color=grey" alt="Git" />
   <img src="https://img.shields.io/badge/VHDL-a?style=for-the-badge&logo=vhdl&color=grey" alt="VHDL" />
-  
-  <br>
-  <a href="https://github.com/EduardoJunoy/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api?username=EduardoJunoy&theme=nord&show_icons=true&locale=es&hide=contribs,prs,issues&count_private=true" alt="Estadísticas de GitHub" height="150"/>
-  </a>
-
-  <a href="https://github.com/EduardoJunoy/github-readme-stats">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EduardoJunoy&theme=nord&show_icons=true&locale=es&hide=jupyter%20notebook&layout=compact" alt="Lenguajes más usados" height="150"/>
-  </a>
 </p>
 
 
