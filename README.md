@@ -9,7 +9,6 @@
 - 📫 Contacta conmigo a través del corre
 
 <p align="center">
-  Certificados lingüísticos:
   <br>
   <img src="https://img.shields.io/badge/Español-yellow?label=Nativo" alt="Static Badge" />
   <img src="https://img.shields.io/badge/Italiano-lightgreen?label=C1" alt="Static Badge" />
