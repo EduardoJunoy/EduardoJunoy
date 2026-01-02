@@ -10,6 +10,7 @@
 
 <p align="center">
   Certificados lingüísticos:
+    <br>
   <img src="https://img.shields.io/badge/Deutsch-red?label=B1" alt="Static Badge" />
   <img src="https://img.shields.io/badge/English-lightblue?label=B2" alt="Static Badge" />
   <img src="https://img.shields.io/badge/Italiano-lightgreen?label=C1" alt="Static Badge" />
