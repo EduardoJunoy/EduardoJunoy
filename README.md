@@ -9,11 +9,10 @@
 - 📫 Contacta conmigo a través del corre
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Deutsch-red?label=B2" alt="Static Badge" />
+  Certificados lingüísticos:
+  <img src="https://img.shields.io/badge/Deutsch-red?label=B1" alt="Static Badge" />
   <img src="https://img.shields.io/badge/English-lightblue?label=B2" alt="Static Badge" />
-  <img src="https://img.shields.io/badge/Italiano-lightgreen?label=B1" alt="Static Badge" />
-  <br>
-  <img src="https://github.com/EduardoJunoy/EduardoJunoy/blob/main/banner.png" alt="Banner" height="220"/>
+  <img src="https://img.shields.io/badge/Italiano-lightgreen?label=C1" alt="Static Badge" />
   <br>
 
   <img src="https://img.shields.io/badge/C-a?style=for-the-badge&logo=C&color=grey" alt="C" />
