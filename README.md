@@ -1,12 +1,12 @@
 ### Hola, soy Eduardo 👋
 
 - 🌱 Actualmente estudio Ingeniería Informática
-- 📊 Apasionado de las gráficas y el análisis de datos
+- 📊 Apasionado en la visualización y el análisis de datos
 - 👯 Me gusta trabajar en equipo
-- 🎨 Conocimientos avanzados en edición de imagen
+- 🎨 Conocimientos en edición de imagen y vídeo
 - ⚡ Soy monitor scout, por lo que estoy acostumbrado a lidiar con problemas y solucionarlos colectivamente
 - 📚 Interesado en el Software Libre
-- 📫 Contacta conmigo a través del corre
+- 📫 Contacta conmigo a través del correo
 
 <p align="center">
   <br>
